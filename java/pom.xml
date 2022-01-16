@@ -46,7 +46,7 @@
         <bcpkix.version>1.54</bcpkix.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <argparse4j.version>0.7.0</argparse4j.version>
-        <slf4j-api.version>1.7.6</slf4j-api.version>
+        <slf4j-api.version>1.7.32</slf4j-api.version>
         <gson.version>2.7</gson.version>
     </properties>
 
